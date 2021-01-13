@@ -1,0 +1,55 @@
+.card {
+  height: 280px;
+  width: 370px;
+  float: left;
+  border: whitesmoke solid 0.5px;
+  border-radius: 10px;
+  margin: 25px;
+}
+
+.cardimg {
+  height: 300px;
+  width: 370px;
+}
+
+.cardname {
+  position: relative;
+  top: -95px;
+}
+
+.cardlink {
+  position: relative;
+  top: -113px;
+  float: left;
+  left: 12px;
+  text-decoration: none;
+  color: darkcyan;
+}
+
+.cardlink:hover {
+  color: darkslategray;
+  border-bottom: 3px solid darkslategray;
+}
+
+.cardimg2 {
+  height: 20px;
+  width: 200px;
+  position: relative;
+  top: -100px;
+  float: left;
+  left: 20px;
+}
+
+.corona2 {
+  height: 50px;
+  margin: 20px;
+}
+.corona {
+  margin: 20px;
+}
+.cardart {
+  margin: 30px;
+}
+.cco{
+  margin:35px;
+}

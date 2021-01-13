@@ -1,0 +1,150 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  font-family: sans-serif;
+  height: 100%;
+  overflow: hidden;
+  max-width: 100%;
+  overflow-x: hidden;
+  max-height: 100%;
+  overflow-y: hidden;
+}
+
+.header {
+  height: 150px;
+}
+
+.main {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.mainup {
+  max-width: 100%;
+  z-index: 2;
+  position: absolute;
+}
+.mainimg {
+  max-width: 100%;
+  position: relative;
+  z-index: 0;
+  top: -10px;
+}
+.maindown {
+  margin-top: -70px;
+}
+.maind1 {
+  float: left;
+  margin: 80px;
+}
+.maind2 {
+  float: left;
+  margin: 80px;
+}
+.maind3 {
+  float: left;
+  margin: 80px;
+}
+.maind4 {
+  float: left;
+  margin: 80px;
+}
+
+.mainlast {
+  width: 600px;
+}
+
+.mon1 {
+  float: left;
+  text-decoration: none;
+  color: darkcyan;
+  margin: 37px;
+  height: 25px;
+}
+
+.mon {
+  margin-bottom: 10px;
+}
+.mon1:hover {
+  color: darkslategray;
+  border-bottom: 3px solid darkslategray;
+}
+
+.mon2 {
+  float: left;
+  text-decoration: none;
+  color: darkcyan;
+  margin: 37px;
+  height: 25px;
+}
+.mon2:hover {
+  color: darkslategray;
+  border-bottom: 3px solid darkslategray;
+}
+
+.mon3 {
+  float: left;
+  text-decoration: none;
+  color: darkcyan;
+  margin: 37px;
+  height: 25px;
+}
+.mon3:hover {
+  color: darkslategray;
+  border-bottom: 3px solid darkslategray;
+}
+
+.mon4 {
+  float: left;
+  text-decoration: none;
+  color: darkcyan;
+  margin: 37px;
+  height: 25px;
+}
+.mon4:hover {
+  color: darkslategray;
+  border-bottom: 3px solid darkslategray;
+}
+
+.mon5 {
+  float: left;
+  text-decoration: none;
+  color: darkcyan;
+  margin: 37px;
+  height: 25px;
+}
+.mon5:hover {
+  color: darkslategray;
+  border-bottom: 3px solid darkslategray;
+}
+
+.mon6 {
+  float: left;
+  text-decoration: none;
+  color: darkcyan;
+  margin: 37px;
+  height: 25px;
+}
+.mon6:hover {
+  color: darkslategray;
+  border-bottom: 3px solid darkslategray;
+}
+
+.mon7 {
+  float: left;
+  text-decoration: none;
+  color: darkcyan;
+  margin: 37px;
+  height: 25px;
+}
+.mon7:hover {
+  color: darkslategray;
+  border-bottom: 3px solid darkslategray;
+}
+
+.Mon {
+  height: 100px;
+  border: 3px solid white;
+}

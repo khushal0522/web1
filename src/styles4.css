@@ -1,0 +1,109 @@
+.head4 {
+  height: 60px;
+}
+.l1 {
+  width: 500px;
+}
+.l2 {
+  width: 200px;
+  height: 240px;
+  position: relative;
+  left: -480px;
+  top: -40px;
+}
+.l3 {
+  width: 120px;
+  position: relative;
+  top: -250px;
+  left: -240px;
+}
+.l4 {
+  width: 150px;
+  position: relative;
+  top: -200px;
+  left: -230px;
+}
+.lg {
+  float: left;
+}
+.llg {
+  position: relative;
+  left: 650px;
+  top: -600px;
+}
+.lllg {
+  padding-left: 120px;
+}
+.head5 {
+  height: 60px;
+  position: relative;
+  top: 500px;
+  left: -380px;
+}
+
+.o {
+  width: 800px;
+  position: relative;
+  top: -630px;
+}
+
+.head6 {
+  height: 60px;
+  position: relative;
+  top: -630px;
+  left: 30px;
+}
+
+.z1 {
+  width: 270px;
+  height: 450px;
+}
+.z2 {
+  width: 170px;
+  height: 240px;
+  position: relative;
+  left: -270px;
+  top: -40px;
+}
+.z3 {
+  width: 120px;
+  position: relative;
+  top: -250px;
+  left: -140px;
+}
+.z4 {
+  width: 120px;
+  position: relative;
+  top: -200px;
+  left: -130px;
+}
+
+.po{
+   
+  position: relative;
+  top:-600px;
+}
+
+.x1{
+  float:left;
+  position: relative;
+  left:20px;
+}
+.x2{
+  float:left;
+  position: relative;
+  left:-90px;
+}
+.x3{
+  float:left;
+  position: relative;
+  left:1000px;
+  top:-550px;
+
+}
+.x4{
+  float:left;
+  position: relative;
+  left:240px;
+  top:-550px;
+}

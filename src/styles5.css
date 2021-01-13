@@ -1,0 +1,40 @@
+.lastback{
+  width: 100%;
+  position: relative;
+  top:-1150px;
+}
+ 
+.kl{
+  position: relative;
+  width: 100%;
+  top:-1950px;
+}
+.kll{
+   
+  position: relative;
+  width: 1000px;
+  top:-2250px;
+}
+.klll{
+   
+  position: relative;
+   
+  top:-2650px;
+}
+
+.logo{
+  width: 400px;
+  float: left;
+  margin-top: 65px;
+}
+
+.logo2{
+  width: 180px;
+  float: right;
+  margin-top: 50px;
+  background-color: darkcyan
+}
+
+.monn{
+  width: 500px;
+}

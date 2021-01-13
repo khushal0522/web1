@@ -1,0 +1,115 @@
+.mainframe {
+  height: 2000px;
+  border: white solid 1px;
+  margin: 10px;
+}
+
+.tgroup {
+  float: left;
+}
+
+.head1 {
+  width: 230px;
+  margin: 15px;
+}
+.cpic {
+  width: 230px;
+}
+.spic {
+  width: 260px;
+  position: relative;
+  top: -300px;
+  left: 270px;
+}
+.tpic {
+  width: 260px;
+  position: relative;
+  top: -270px;
+  left: 270px;
+}
+
+.tlink {
+  position: relative;
+  top: -260px;
+  left: 180px;
+  color: darkcyan;
+}
+
+.windira {
+  height: 60px;
+  position: relative;
+  top: -200px;
+}
+.ww {
+  float: left;
+  margin-top: -130px;
+}
+.w1 {
+  width: 110px;
+  margin: 18px;
+  position: relative;
+  left: 15px;
+}
+.w2 {
+  width: 170px;
+  margin: 18px;
+  position: relative;
+  left: 50px;
+}
+.w3 {
+  width: 350px;
+  margin: 18px;
+  position: relative;
+  left: 140px;
+}
+.w4 {
+  width: 350px;
+  position: relative;
+  left: 550px;
+  top: -390px;
+}
+.w5 {
+  width: 260px;
+  position: relative;
+  left: 840px;
+  top: -809px;
+}
+.w11 {
+  width: 500px;
+  position: relative;
+  top: 300px;
+  left: -500px;
+}
+.w12 {
+  width: 300px;
+  position: relative;
+  top: -125px;
+  left: -245px;
+}
+
+.ww2 {
+  position: relative;
+  top: -350px;
+}
+.ww3 {
+  position: relative;
+  top: -280px;
+  left: -440px;
+}
+.ww84 {
+  position: relative;
+  left: 1260px;
+  top: -700px;
+}
+.ww11 {
+  width: 450px;
+  position: relative;
+  top: 300px;
+  left: -500px;
+}
+.ww12 {
+  width: 330px;
+  position: relative;
+  top: -85px;
+  left: -710px;
+}
